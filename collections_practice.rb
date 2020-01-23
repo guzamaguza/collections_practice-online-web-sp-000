@@ -42,9 +42,9 @@ def sum_array(array)
   #array.sum
   sum = 0
   array.each {|a| sum+=a}
-  return sum
+  return sum 
 end
 
-def add_s
+def add_s(array)
 
 end
